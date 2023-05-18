@@ -9,7 +9,15 @@ coverY: 0
 
 # 👋 Добро пожаловать!
 
+{% tabs %}
+{% tab title="First Tab" %}
+тест
+{% endtab %}
 
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
 {% hint style="info" %}
 **About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
