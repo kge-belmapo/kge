@@ -11,7 +11,7 @@ coverY: 0
 
 {% tabs %}
 {% tab title="First Tab" %}
-тест
+тест 2
 {% endtab %}
 
 {% tab title="Second Tab" %}
